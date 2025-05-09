@@ -19,7 +19,9 @@
 
 ### 🏆 Achievements
 - NationBuilding Case Study 2025 Finalist  
-- Oracle Cloud Certified: Success Navigator Essentials  
+- Oracle Cloud Certified: Success Navigator Essentials
+- Data Analyst and Virtual Job Simulation: Accenture
+- Python Full-Stack Development Internship: AICTE
 
 ### ⚙ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
