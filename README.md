@@ -39,4 +39,4 @@
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](#) | [Portfolio](#) | [Email](mailto:your@email.com)
+[LinkedIn](http://linkedin.com/in/geetika-kakkar-bb0145220) | [Portfolio]() | [Email](mailto:kakkargeetika200@gmail.com)
