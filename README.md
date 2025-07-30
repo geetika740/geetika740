@@ -33,8 +33,11 @@
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-563D7C?style=for-the-badge&logo=ai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=matrix&logoColor=white)
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats
+![Geetika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geetika740&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=geetika740&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geetika740&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
